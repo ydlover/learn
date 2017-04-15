@@ -1,0 +1,14 @@
+{
+  "name": "Win32",
+  "includePath": [
+    "d:/MinGW/include/*",
+    "D:/MinGW/lib/gcc/mingw32/5.3.0/include/*",
+    "D:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/*",
+    "D:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/mingw32/*",
+    "D:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/backward/*"
+  ],
+  "browse": {
+    "limitSymbolsToIncludedHeaders": true,
+    "databaseFilename": ""
+  }
+}
