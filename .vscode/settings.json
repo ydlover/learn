@@ -6,11 +6,15 @@
       "**/.svn": true,
       "**/.hg": true,
       "**/CVS": true,
+      "**/*.o": true,
+      "**/*.exe": true,
       "**/.DS_Store": true
     },
       // 配置 glob 模式以在搜索中排除文件和文件夹。从 files.exclude 设置中继承所有 glob 模式。
     "search.exclude": {
       "**/.git": true,
+      "**/*.exe": true,
+      "**/*.o": true,
       "**/.svn": true
     }
   }
