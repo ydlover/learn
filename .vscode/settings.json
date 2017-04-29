@@ -16,5 +16,11 @@
       "**/*.exe": true,
       "**/*.o": true,
       "**/.svn": true
+    },
+    "files.associations": {
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "initializer_list": "cpp",
+      "utility": "cpp"
     }
   }
